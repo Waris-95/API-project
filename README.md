@@ -51,13 +51,9 @@ Browse the API documentation for JSON data interaction between frontend and back
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="width:50px" />
 </div>
 
-## 🌅 Landing Page
+## 🌅 Live Preview
 
-![Landing Page GIF](landing-page-gif)
-
-## 🏞️ One Spot Page and Reviews
-
-![Spot Page GIF](spot-page-gif)
+![Landing Page GIF](https://github.com/Waris-95/Czybnb/assets/124799691/c768b822-717a-4438-88c8-b96b40b72a55)
 
 ## 💻 Code I'm Proud Of
 
