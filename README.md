@@ -51,9 +51,9 @@ Browse the API documentation for JSON data interaction between frontend and back
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="width:50px" />
 </div>
 
-## 🌅 Live Preview
+## 🌅 Preview
 
-![Landing Page GIF](https://github.com/Waris-95/Czybnb/assets/124799691/c768b822-717a-4438-88c8-b96b40b72a55)
+![Landing Page GIF](https://github.com/Waris-95/Czybnb/assets/124799691/19dc80e8-b840-4a46-9be5-9be6139579f0)
 
 ## 💻 Code I'm Proud Of
 
